@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <Placemark>
+        <name> Wartberg (# 1)</name>
+        <description><![CDATA[Wartberg (# 1)<br />Unterflurhydrant<br />Unterflur<br /><a href="https://portal.wasserkarte.info/watermap/waterSource/210284">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9670511, 51.5486595, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/210284_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Eulenloch 6 - 1001 (# 1001)</name>
+        <description><![CDATA[Eulenloch 6 - 1001 (# 1001)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295033">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9825295, 51.5407906, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295033_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> An der Mühle xx (# 1002)</name>
+        <description><![CDATA[An der Mühle xx (# 1002)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295072">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9866688, 51.5396425, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295072_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> An der Mühle - Buswendeschleife (# 1003)</name>
+        <description><![CDATA[An der Mühle - Buswendeschleife (# 1003)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295073">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9879026, 51.5392171, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295073_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Sonnenbreite - Tränke (# 1004)</name>
+        <description><![CDATA[Sonnenbreite - Tränke (# 1004)<br />Saugstelle<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295074">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9869719, 51.5395791, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295074_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Eulenloch 13 - Wendehammer (# 1005)</name>
+        <description><![CDATA[Eulenloch 13 - Wendehammer (# 1005)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295075">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9812239, 51.5400395, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295075_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> An der Mühle 32 (# 1006)</name>
+        <description><![CDATA[An der Mühle 32 (# 1006)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295076">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9835441, 51.5415059, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295076_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Eulenloch 3 - 627 (# 627)</name>
+        <description><![CDATA[Eulenloch 3 - 627 (# 627)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295002">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9832088, 51.5406124, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295002_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Eulenloch 7 - 629 (# 629)</name>
+        <description><![CDATA[Eulenloch 7 - 629 (# 629)<br />Unterflurhydrant<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/294758">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9822968, 51.5402043, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/294758_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+    <Placemark>
+        <name> Am Kehr (# 630)</name>
+        <description><![CDATA[Am Kehr (# 630)<br />Löschwasserbrunnen<br /><br /><a href="https://portal.wasserkarte.info/watermap/waterSource/295006">Details</a>]]></description>
+        <Point>
+            <coordinates>9.9792016, 51.5251003, 0</coordinates>
+        </Point>
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://portal.wasserkarte.info/m/295006_1.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Placemark>
+</Document>
+</kml>
